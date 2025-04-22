@@ -1,0 +1,1 @@
+Detailed information for the specific devices
