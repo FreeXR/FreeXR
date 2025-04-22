@@ -1,0 +1,4 @@
+[submodule "methods/volt-glitching"]
+	path = methods/volt-glitching
+	url = git@github.com:FreeXR/attack-volt-glitching.git
+	branch = wip
