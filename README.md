@@ -28,4 +28,4 @@ OPEN COLLECTIVE HERE
 
 * Discord: https://discord.gg/ABCXxDyqrH
 * IRC: pending bridges..
-* Matrix: https://matrix.to/#/#quest-rooting:matrix.org
+* Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
