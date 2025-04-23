@@ -18,7 +18,7 @@ review `./targets` in this repository for more info about the specific devices a
 
 # How can you help?
 
-It doesn't matter if you are a developer, engineer, hardware hacker or end-user, you can read through the repositories and see if you can find something that could be relevant to the unlocking of the bootloader. We are a decentralized community and if you want to learn then we are happy to teach you and share our experiences.
+It doesn't matter if you are a developer, engineer, hardware hacker, end-user or cat, you can read through the repositories and see if you can find something that could be relevant to the unlocking of the bootloader. We are a decentralized community and if you want to learn then we are happy to teach you and share our experiences.
 
 Additionally you can help to support us financially by contributing to the bounty and to the hand-tracking development.
 
@@ -29,3 +29,6 @@ OPEN COLLECTIVE HERE
 * Discord: [![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)](https://discord.gg/ABCXxDyqrH)
 * IRC: pending bridges..
 * Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
+
+
+NOTE: discord badge here https://github.com/FriiZoLoGYy/Discord-Github-Badges, I will fix when I get home or an admin can do it
