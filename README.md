@@ -26,6 +26,6 @@ OPEN COLLECTIVE HERE
 
 # Community
 
-* Discord: https://discord.gg/ABCXxDyqrH
+* Discord: [![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)](https://discord.gg/ABCXxDyqrH)
 * IRC: pending bridges..
 * Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
