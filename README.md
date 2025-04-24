@@ -7,11 +7,12 @@ Interest group of developers, hardware hackers and end-users researching ways to
 The end goal is to make all of these devices unlockable and available for development.
 
 * **Lynx R1:** Unlocked, Linux mainline in progress..
-* **HTC Vive XR Elite:** In talks with HTC on unlocking the bootloader..
-* **META Quest 3:** Locked, research active
-* **META Quest 3S:** Locked, research active
-* **META Quest 2:** Locked, research active
-* **Oculus Quest:** Locked, research active
+* **Play For Drem MR (anorak):** Unlocked with unburnt efuse by vendor
+* **HTC Vive XR Elite (kyoto):** In talks with HTC on unlocking the bootloader..
+* **META Quest 3 (eureka):** Locked, research active
+* **META Quest 3S (panther):** Locked, research active
+* **META Quest 2 (hollywood):** Locked, research active
+* **Oculus Quest (monterey):** Locked, research active
 * **ByteDance Pico 4:** Pending talks with vendor
 
 review `./targets` in this repository for more info about the specific devices and `./methods` for tried attacks
