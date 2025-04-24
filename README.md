@@ -29,5 +29,3 @@ OPEN COLLECTIVE HERE
 * Discord: [![Join our Discord](https://discordapp.com/api/guilds/1344235945238593547/widget.png)](https://discord.gg/ABCXxDyqrH)
 * IRC: pending bridges..
 * Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
-
-Test Commit
