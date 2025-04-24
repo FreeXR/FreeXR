@@ -26,7 +26,7 @@ OPEN COLLECTIVE HERE
 
 # Community
 
-* Discord: [![Join our Dicord](https://discordapp.com/api/guilds/1344235945238593547/widget.png?style=banner4)
+* Discord: ![Join our Dicord](https://discordapp.com/api/guilds/1344235945238593547/widget.png)
 * IRC: pending bridges..
 * Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
 
