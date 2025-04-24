@@ -30,5 +30,4 @@ OPEN COLLECTIVE HERE
 * IRC: pending bridges..
 * Matrix: [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#quest-rooting:matrix.org)
 
-
-NOTE: discord badge here https://github.com/FriiZoLoGYy/Discord-Github-Badges, I will fix when I get home or an admin can do it
+Test Commit
